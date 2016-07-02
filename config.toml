@@ -1,0 +1,10 @@
+baseurl = "https://lernisto.com/"
+languageCode = "en-us"
+title = "You Can Learn Anything"
+copyright = "Terrel Shumway. All rights reserved."
+
+[params]
+  logo      = "/images/logo.svg"
+  twitter   = "https://twitter.com/lernisto"
+  github    = "https://github.com/lernisto/"
+  email     = "uyc4e6sri7mwy@lernisto.com"
