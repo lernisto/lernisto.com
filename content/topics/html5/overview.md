@@ -16,6 +16,7 @@ However:
 
 I also recognize that HTML/Javascript/CSS are the *lingua franca* of the web, and knowing how to speak the language cannot hurt.  I have put off learning Javascript *well* for a long time, and decided I should just bite the bullet.
 
+The "new" parts of HTML5 include `<video>`, `<audio>`, and `<canvas>`. These would be good places to focus initial efforts.
 
 ## What is there to learn?
 
@@ -37,3 +38,14 @@ A lot:
   14. network architecture
 
 I suppose I shouldn't call it "HTML5" when I really mean "webtech". Strictly speaking, HTML5 only encompasses the first 5 items on this list, but a developer cannot really say he knows the web unless he understands at least the basics of all of these.
+
+
+## What projects are appropriate to start with?
+
+ * Hugo blog
+ * video gallery and playlist: static site with client-side javascript enhancements
+
+## What resources are available?
+
+  * edx courses presented by W3C
+  * too many to enumerate
