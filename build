@@ -1,0 +1,2 @@
+#!/bin/sh
+exec hugo --buildDrafts -t lernisto-zen
