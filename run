@@ -1,2 +1,0 @@
-#!/bin/sh
-exec hugo server --watch --buildDrafts -t lernisto-zen

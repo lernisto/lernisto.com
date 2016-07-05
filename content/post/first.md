@@ -1,6 +1,6 @@
 +++
-date = "2016-07-02T14:22:22-06:00"
-draft = true
+date = "2016-07-05T10:29:06-06:00"
+draft = false
 title = "First Post"
 
 +++
