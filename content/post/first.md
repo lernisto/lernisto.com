@@ -5,7 +5,7 @@ title = "First Post"
 
 +++
 
-As I was following John Sonmez's course [*10 Steps to Learn Anything Quickly*](http://bit.ly/29pbVTp), I decided to document my learning of HTML5. I started by creating a blog to record my progress.  In creating the blog, I realized that I have been sitting on a brand just as strong as John's *Simple Programmer*, and that the domain name was available. (Amazing, I know.) Thus is born [lernisto.com](https://lernisto.com/).  
+As I was following John Sonmez's course [*10 Steps to Learn Anything Quickly*](http://bit.ly/29pbVTp), I decided to document my learning of HTML5. I started by creating a blog to record my progress.  In creating the blog, I realized that I have been sitting on a brand just as strong as John's *Simple Programmer*, and that the domain name was available. (Amazing, I know.) Thus is born [lernisto.com](/).  
 
 Ok, maybe the competition for "lernisto" as a search keyword is not strong. The top two results are posts involving my Github account. You only learn the meaning of the word in the third SERP. But, hey, it is unique, short, memorable, and makes Esperanto speakers feel special. ;-)
 
