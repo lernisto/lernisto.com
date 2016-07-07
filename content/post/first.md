@@ -1,5 +1,5 @@
 +++
-date = "2016-07-05T10:29:06-06:00"
+date = "2016-07-05T08:00:06-06:00"
 draft = false
 title = "First Post"
 
