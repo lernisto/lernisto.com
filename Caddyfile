@@ -1,0 +1,7 @@
+shumway.us
+root public
+basicauth /admin master monkey10
+hugo {
+	theme lernisto-zen
+        buildDrafts
+}
