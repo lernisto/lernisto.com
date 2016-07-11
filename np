@@ -1,0 +1,4 @@
+#!/bin/sh
+article=$(date +post/%Y-%m-%d.md)
+hugo new $article
+atom content/$article
