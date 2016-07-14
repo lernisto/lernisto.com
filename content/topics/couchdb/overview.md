@@ -14,3 +14,32 @@ CouchDB is a [document-oriented data store focused on the AP](http://blog.nahurs
 I am evaluating CouchDB as a candidate data store for a password manager to replace LastPass. (It bothers me that LastPass is not free software, and I don't like that the developers seem focused on adding new eye-candy features that make it slower. As a critical part of my trusted computing base, I want my password vault to be simple and rock-solid.)
 It might also work well as a store for a chat app to replace WhatsApp/Messenger/SMS/MMS. I don't want to spend more money than necessary on airtime for my cell phone.
 My first project ("something useful") will be a dream-catcher.
+
+
+## What is there to learn?
+
+ * setup
+ * basic operations
+ * mapreduce
+ * replication/backup
+ * CouchApps (static web content served directly from the database)
+ * security
+ * deployment
+
+
+ * test suite
+ * build
+ * system integration
+
+
+ * general
+ * configuration
+ * storage system
+ * security
+ * replicator
+ * log system
+ * javascript
+ * HTTP interface
+ * view server
+ * URL rewriter & vhosts
+ * futon
