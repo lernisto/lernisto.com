@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ssh -i ~/work/aws/linux-caddy.pem admin@lernisto.com

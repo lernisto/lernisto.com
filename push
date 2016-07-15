@@ -1,2 +1,4 @@
 #!/bin/sh
-exec aws s3 sync public s3://lernisto.com
+#exec aws s3 sync public s3://lernisto.com
+#exec scp -i ~/work/aws/linux-caddy.pem -r public/* admin@lernisto.com:www/lernisto.com/public/
+exec rsync -e 'ssh -i ~/work/aws/linux-caddy.pem' -rv --delete public admin@lernisto.com:www/lernisto.com
