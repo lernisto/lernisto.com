@@ -31,7 +31,6 @@ My first project ("something useful") will be a dream-catcher.
  * build
  * system integration
 
-
  * general
  * configuration
  * storage system
@@ -43,3 +42,8 @@ My first project ("something useful") will be a dream-catcher.
  * view server
  * URL rewriter & vhosts
  * futon
+
+## Never Mind
+
+  The response from the developer to [this post](http://stackoverflow.com/questions/9343868/confused-on-how-to-use-couchdb-on-android)
+  suggests that CouchDB may not be the road ahead, at least not for mobile platforms.
