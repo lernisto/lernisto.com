@@ -2,6 +2,8 @@
 title: "$3k in 30 days"
 date: 2018-09-14T23:23:12-06:00
 draft: true
+tags:
+    - "3k in 30 Days"
 ---
 
 Ok, that last post was cheating. But this one is real.
@@ -98,7 +100,7 @@ It was a lot of work. It is easy to forget how much I have learned over
 the years that is *not* intuitive to a newbie.
 
 Finally, I am about to give the command that *might* deploy this staging 
-site to a real server. If you can read this, it worked.
+site to a real server. <strike>If you can read this, it worked.</strike>
 
 Ok. It didn't work. I'll work on it tomorrow.
 

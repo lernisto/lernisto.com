@@ -2,6 +2,8 @@
 title: "How to Get Something Done (part 2)"
 date: 2018-09-14T09:23:05-06:00
 draft: true
+tags:
+    - "get it done"
 ---
 
 Do you need to get something done? Something you have been procrastinating 
