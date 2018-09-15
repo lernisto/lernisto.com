@@ -100,6 +100,9 @@ the years that is *not* intuitive to a newbie.
 Finally, I am about to give the command that *might* deploy this staging 
 site to a real server. If you can read this, it worked.
 
+Ok. It didn't work. I'll work on it tomorrow.
+
+
 
 
 
