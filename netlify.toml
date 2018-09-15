@@ -1,0 +1,4 @@
+[build]
+  publish = "public/"
+  command = "hugo -D"
+  environment = { HUGO_VERSION = "0.48" }
