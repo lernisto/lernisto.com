@@ -2,4 +2,4 @@
 baseURL: "https://lernisto.com/"
 languageCode: "en-us"
 title: "Learn Every Day"
-theme: tale
+theme: paper
