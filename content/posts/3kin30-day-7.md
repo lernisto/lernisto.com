@@ -15,3 +15,7 @@ Todo:
 * figure out how to hide things behind a paywall. Netlify's solution for this problem is prohibitively expensive for startups, so it will probably involve hosting somewhere else.
 * figure out commenting. Disqus works, but is far from ideal.
 
+Done:
+
+I did a lot of practicing. I learned that I am quite out of practice but it is coming back to me. I am going to have to spend some real time learning HTML and modern web design. I can understand why people hire others to do this.
+
