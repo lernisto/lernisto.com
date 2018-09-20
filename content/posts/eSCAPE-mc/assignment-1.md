@@ -8,17 +8,17 @@ tags:
 ---
 
 1. What was your eSCORE?
-   overall: 75
-   core beliefs:  
-    - struggle: 75
-    - money: 100
-    - dreams: 75
-    - time: 92
-    - problems: 100
-   Self: 68
-   Catapult: 65
-   Authority: 82
-   People: 73
+   - overall: 75
+   - core beliefs:  
+        - struggle: 75
+        - money: 100
+        - dreams: 75
+        - time: 92
+        - problems: 100
+   - Self: 68
+   - Catapult: 65
+   - Authority: 82
+   - People: 73
 
 2. Were you surprised by any of your scores? If so, why?
 
