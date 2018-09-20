@@ -21,18 +21,6 @@ tags:
 - People: 73
 
 ## Were you surprised by any of your scores? If so, why?
-- overall: 75  
-    - struggle: 75
-    - money: 100
-    - dreams: 75
-    - time: 92
-    - problems: 100
-- Self: 68
-- Catapult: 65
-- Authority: 82
-- People: 73
-
-## Were you surprised by any of your scores? If so, why?
 
 My weak areas are "No More Tomorrow"; "Ask Questions, Seek Answers"; and "Quitting".
 
@@ -49,3 +37,12 @@ Settling for intrapreneurship at this point would feel too much like quitting. I
 1. I understand that mindset is at least as important as skills.
 2. I understand that I cannot do this alone. I need to seek out and follow trustworthy mentors. I must proactively expand my network.
 3. I understand that because time is limited, I must do only what only I can do.
+
+
+Goal:
+Be able to create and deploy a python package that will be useful to someone in the community.
+ * useful
+ * proper tests
+ * proper packaging
+ * proper documentation
+Package Your Python software.
